@@ -2,6 +2,10 @@
 A simple facebook bruteforce attack.
 
 #### Setup Commands
+Update Your Terminal
+Upgrade Your Terminal
+Install Python
+Install Python2
 ```
 git clone https://github.com/IAmBlackHacker/Facebook-BruteForce
 ```
