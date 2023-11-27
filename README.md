@@ -2,22 +2,17 @@
 A simple facebook bruteforce attack.
 
 #### Setup Commands
-Update & Upgrade Your Terminal.
-Install Python & Python2.
+###### Update & Upgrade Your Terminal. Install Python & Python2.
 
-###### Git clone
 ```
 git clone https://github.com/IAmBlackHacker/Facebook-BruteForce
 ```
-###### Open tool
 ```
 cd FaceBoom9
 ```
-###### Install bs4
 ```
 python3 -m pip install requests bs4
 ```
-###### Install mechanize
 ```
 python3 -m pip install mechanize
 ```
