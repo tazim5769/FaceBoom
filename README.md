@@ -5,7 +5,7 @@ A simple facebook bruteforce attack.
 ###### Update & Upgrade Your Terminal. Install Python & Python2.
 
 ```
-git clone https://github.com/IAmBlackHacker/Facebook-BruteForce
+git clone https://github.com/tazim5769/FaceBoom9
 ```
 ```
 cd FaceBoom9
