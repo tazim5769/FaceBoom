@@ -21,11 +21,11 @@ python3 -m pip install mechanize
 ```
 cd FaceBoom9
 ```
-###### Use
+Use
 ```
 python3 fb.py
 ```
-###### or
+or
 ```
 python fb2.py
 ```
