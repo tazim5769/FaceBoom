@@ -16,7 +16,7 @@ python3 -m pip install mechanize
 ```
 
 
-#### Run Tool
+#### Commands for use
 ```
 cd FaceBoom9
 ```
